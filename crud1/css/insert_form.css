@@ -1,0 +1,56 @@
+.sticky_menu {
+    background-color: rgba(42, 42, 42, 0.866);
+    width: 100%;
+    height: 60px;
+    padding-left: 3%;
+    font-size: 20px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    color: white;
+    font-family: "Ubuntu Mono";
+}
+
+body{
+    font-family: "Ubuntu Mono";
+}
+
+.menu_head{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.save{
+    margin-left: 120px;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+li .textbox{
+    position: fixed;
+    left: 170px;
+}
+
+li span{
+    position: fixed;
+    left: 150px;
+}
+
+.return{
+    display: block;
+    margin: 100px;
+    margin-top: 30px;
+    color: black;
+}
+
+.return:hover{
+    text-decoration: none;
+    color: rgb(212, 212, 212);
+    text-shadow: 1px 1px rgb(82, 82, 82);
+}
+
