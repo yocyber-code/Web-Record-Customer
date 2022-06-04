@@ -1,4 +1,4 @@
-Need data base name test2
+Need database name test2
 
 ********************************
 ********************************
